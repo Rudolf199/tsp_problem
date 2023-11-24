@@ -19,4 +19,4 @@
 $$\sum_{x \in M} c(x) \rightarrow max$$
 
 $$s.t. \sum_{x \in M} w(x) ⩽ W$$
-$ 1 + 2$
+$1 + 2$
